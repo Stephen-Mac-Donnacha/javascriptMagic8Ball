@@ -1,0 +1,1 @@
+javascriptMagic8Ball
